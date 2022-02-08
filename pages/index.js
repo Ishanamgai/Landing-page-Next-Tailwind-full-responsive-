@@ -115,7 +115,7 @@ export default function Home() {
             <title data-v-4c469572="" id="twitterTitle">
               Link to Balancer&apos;s Twitter
             </title>{" "}
-            {/* <g data-v-4c469572="" fillRule="nonzero" fill="none">
+            <g data-v-4c469572="" fillRule="nonzero" fill="none">
               <path
                 data-v-4c469572=""
                 d="M15.962 0C7.147 0 0 7.164 0 16s7.147 16 15.962 16 15.963-7.164 15.963-16S24.777 0 15.962 0z"
@@ -128,7 +128,7 @@ export default function Home() {
                 fill="#000"
                 className="logo"
               ></path>
-            </g> */}
+            </g>
           </svg>
           <svg
             data-v-ea960c88=""
